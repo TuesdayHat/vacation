@@ -4,5 +4,17 @@
 }
 
 body{
-  background-image: url(../img/triangle.jpg);
+  background-image: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: stretch;
+  background-position: center;
+}
+
+.row{
+  text-align: center;
+}
+
+a {
+  color: red;
+  text-decoration: underline;
 }
